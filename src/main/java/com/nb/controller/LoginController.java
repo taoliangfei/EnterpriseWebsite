@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
+//@RequestMapping("/view")
 public class LoginController {
 
 	//http://blog.csdn.net/java173842219/article/details/54020244
